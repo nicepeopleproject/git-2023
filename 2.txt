@@ -1,3 +1,4 @@
 For (int I = 0; I < 100; I++){
  	System.out.println((i + 10) % 2);
+	System.out.println("5555");
 }
